@@ -1,3 +1,7 @@
+---
+layout: default
+title: Dataset Collection Methods
+---
 ## Primary Data Sources
 To construct a comprehensive dataset, I utilized four primary data sources:
 - Existing Knowledge of Red-Teaming Efforts and Major Frontier Organizations.
