@@ -2,7 +2,7 @@
 layout: base
 ---
 
-![AI Generated Capstone Project logo](/assets/css/images/logo_option_2.png)
+![AI Generated Capstone Project logo](/assets/css/images/logo_option_2.jpg)
 
 Hi all! My name is Simone Van Taylor, and I am a Data Scientist with a deep passion for designing language models that don’t perpetuate harmful content like racism and misogyny.
 
