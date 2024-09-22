@@ -1,4 +1,3 @@
-# Democratizing AI Inclusivity: A Red-Teaming Repository of Existing Social Bias Prompts
 ![AI Generated Capstone Project logo](/assets/css/images/capstone_logo.png)
 
 Hi all! My name is Simone Van Taylor, and I am a Data Scientist with a deep passion for designing language models that don’t perpetuate harmful content like racism and misogyny.
