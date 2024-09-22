@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: base
+title: "Democratizing AI Inclusivity"
+subtitle: "A Red-Teaming Repository of Existing Social Bias Prompts"
+
 ---
 
 ![AI Generated Capstone Project logo](/assets/css/images/capstone_logo.png)
