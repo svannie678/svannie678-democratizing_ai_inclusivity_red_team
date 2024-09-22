@@ -6,18 +6,21 @@
     <link rel="stylesheet" href="{{ '/assets/css/minima.css' | relative_url }}">
 </head>
 
-  <body>
+<body>
 
     {%- include header.html -%}
 
+    <h1>{{ site.title }}</h1> <!-- Display the main title -->
+    <h2>{{ site.subtitle }}</h2> <!-- Display the subtitle -->
+
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <div class="wrapper">
+            {{ content }}
+        </div>
     </main>
 
     {%- include footer.html -%}
 
-  </body>
-
+</body>
 </html>
+
