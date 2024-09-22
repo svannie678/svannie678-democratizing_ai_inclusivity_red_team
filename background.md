@@ -1,3 +1,8 @@
+---
+layout: default
+title: Background
+---
+
 ## What is an LLM?
 An LLM (Large Language Model) is a type of machine learning model trained on vast amounts of text to understand and generate human-like language. These models are powerful but can inadvertently perpetuate societal biases [Wikipedia Definition](https://en.wikipedia.org/wiki/Large_language_model).
 
