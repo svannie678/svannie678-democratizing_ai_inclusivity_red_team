@@ -1,2 +1,3 @@
-# svannie678-democratizing_ai_inclusivity_red_team
+# Democratizing AI Inclusivity: A Red-Teaming Repository of Existing Social Bias Prompts
+
 Landing Page for my AI safety Project
