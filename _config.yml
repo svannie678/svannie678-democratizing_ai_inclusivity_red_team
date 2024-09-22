@@ -6,3 +6,7 @@ navigation:
     url: /
   - title: Background
     url: /background
+  - title: Dataset Collection Methods
+    url: /dataset_collection_methods
+
+    
