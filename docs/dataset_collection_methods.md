@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Dataset Collection Methods
 ---
 ## Primary Data Sources
