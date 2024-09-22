@@ -1,23 +1,22 @@
-## Overview
-
+# Democratizing AI Inclusivity: A Red-Teaming Repository of Existing Social Bias Prompts
 ![AI Generated Capstone Project logo](/assets/css/images/capstone_logo.png)
 
 Hi all! My name is Simone Van Taylor, and I am a Data Scientist with a deep passion for designing language models that don’t perpetuate harmful content like racism and misogyny.
 
 For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I aggregated, unified, and analyzed existing open-source red-teaming datasets aimed at identifying **stereotypes, discrimination, hate speech, and other representation harms** in text-based LLMs.
 
-## Why?
+### Why?
 I wanted to:
 - Minimize duplication of future efforts for red-teamers and model owners.
 - Catalog prevalent prompt types to support the creation of new datasets in underrepresented areas.
 - Put something online that was completely open source and accessible, with a minimum of jargon so that anyone interested could explore!
 
-## At A Glance
+### At A Glance
 - I reviewed 140+ datasets
 - Combined 13 datasets containing red-teaming prompts about social biases into one unified, analyzable dataset.
 - Categorized each prompt into areas of interest and analyzed the prevalence of major categories like race, gender, age, and other forms of discrimination.
 
-## Key Takeaways
+### Key Takeaways
 ![Bar Chart showing prevalance and intersectionality by Category](/assets/css/images/Distro_overview.png)
 
 - [SafetyPrompts.com](https://safetyprompts.com/) is a GREAT resource for exploring open-source datasets regarding AI safety.
