@@ -1,6 +1,6 @@
 # Overview
 
-![AI Generated Capstone Project logo](/svannie678-democratizing_ai_inclusivity_red_team/assets/css/images/capstone_logo.png)
+![AI Generated Capstone Project logo](/assets/css/images/capstone_logo.png)
 
 Hi all! My name is Simone Van Taylor, and I am a Data Scientist with a deep passion for designing language models that don’t perpetuate harmful content like racism and misogyny.
 
@@ -18,7 +18,7 @@ I wanted to:
 - Categorized each prompt into areas of interest and analyzed the prevalence of major categories like race, gender, age, and other forms of discrimination.
 
 ## Key Takeaways
-![Bar Chart showing prevalance and intersectionality by Category](/svannie678-democratizing_ai_inclusivity_red_team/assets/css/images/Distro_overview.png)
+![Bar Chart showing prevalance and intersectionality by Category](/assets/css/images/Distro_overview.png)
 
 - [SafetyPrompts.com](https://safetyprompts.com/) is a GREAT resource for exploring open-source datasets regarding AI safety.
 - Anthropic’s [seminal dataset of red-teaming prompts](https://huggingface.co/datasets/Anthropic/hh-rlhf), released in 2022, is referenced and reused in many downstream datasets.
