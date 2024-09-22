@@ -8,7 +8,7 @@ For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I a
     Check out the final dataset here 🤗 
 </a>
 
-
+<br><br> <!-- Add line breaks for spacing -->
 
 <a href="https://huggingface.co/datasets/svannie678/democratizing_ai_inclusivity_red_team_dataset_information" style="display: inline-block; background-color: #EAD8E2; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Learn more about all the datasets considered here 🤗
