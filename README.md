@@ -1,8 +1,3 @@
----
-layout: default
-title: Democratizing AI Inclusivity
----
-
 # Overview
 
 ![AI Generated Capstone Project logo](/assets/css/images/capstone_logo.png)
