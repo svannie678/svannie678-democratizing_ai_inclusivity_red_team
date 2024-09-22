@@ -8,11 +8,12 @@
 
 <body>
 
-    {%- include header.html -%}
+    <header>
+        <h1>{{ site.title }}</h1> <!-- Main title -->
+        <h2>{{ site.subtitle }}</h2> <!-- Subtitle -->
+    </header>
 
-    <!-- Add title and subtitle here -->
-    <h1>{{ site.title }}</h1> <!-- Main title -->
-    <h2>{{ site.subtitle }}</h2> <!-- Subtitle -->
+    {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
@@ -24,4 +25,3 @@
 
 </body>
 </html>
-
