@@ -5,7 +5,7 @@ title: Analysis
 
 **Explore popular keywords and prompt examples from each category!**
 
-## Disclaimer
+## 🚨Disclaimer🚨
 
 Please be advised that the content presented in this analysis includes a variety of prompts related to sensitive topics. Some of these prompts may contain disturbing or upsetting language that reflects societal biases, stereotypes, or discrimination. The purpose of sharing these examples is to illustrate the nature of the data and to foster discussions around the importance of ethical AI practices. Viewer discretion is advised.
 
