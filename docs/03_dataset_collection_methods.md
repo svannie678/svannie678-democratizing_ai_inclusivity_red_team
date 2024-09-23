@@ -1,8 +1,6 @@
 ---
 layout: base
 title: Dataset Collection Methods
-nav-include: true
-nav-order: 3
 ---
 ## Primary Data Sources
 To construct a comprehensive dataset, I utilized four primary data sources:
