@@ -15,11 +15,10 @@ For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I a
 <a href="https://huggingface.co/datasets/svannie678/red_team_repo_social_bias_dataset_information" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Learn more about all the datasets considered 🤗
 </a>
-
+<br><br> <!-- Add line breaks for spacing -->
 <a href="https://svannie678.github.io/svannie678-red_team_repo_social_bias/02_analysis.html" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Explore sample prompts 🚨
 </a>
-<br><br> <!-- Add line breaks for spacing -->
 
 ### Why?
 - To minimize duplication of future efforts for red-teamers and model owners.
