@@ -1,8 +1,6 @@
 ---
 layout: base
 title: Background
-nav-include: true
-nav-order: 1
 ---
 
 ## What is an LLM?
