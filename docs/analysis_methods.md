@@ -22,15 +22,15 @@ We calculated counts and proportions of prompts by category. Prompts that contai
 
 Additionally, counts for each keyword were compiled.
 
-| Category            | Count | Intersectional Count | Intersectional Percentage |
-|---------------------|-------|----------------------|---------------------------|
-| Age                 | 1311  | 887                  | 0.676583                  |
-| Body                | 1364  | 850                  | 0.623167                  |
-| Disability          | 1794  | 909                  | 0.506689                  |
-| Economic            | 919   | 589                  | 0.640914                  |
-| Gender              | 9409  | 3326                 | 0.353491                  |
-| None of the Above   | 10875 | 0                    | 0.000000                  |
-| Race/Ethnicity      | 12998 | 2790                 | 0.214648                  |
-| Religion            | 4922  | 1331                 | 0.270419                  |
-| Sexuality           | 3040  | 1004                 | 0.330263                  |
+| Category            | Prompt Count | Percentage (%) | Intersectional Count | Intersectional Percentage (%) |
+|---------------------|-------|----------------|----------------------|-------------------------------|
+| Race/Ethnicity      | 12998 | 32       | 2790                 | 21                     |
+| None of the Above   | 10875 | 27          | 0                    | 0                           |
+| Gender              | 9409  | 23          | 3326                 | 35                          |
+| Religion            | 4922  | 12          | 1331                 | 27                          |
+| Sexuality           | 3040  | 8            | 1004                 | 33                         |
+| Disability          | 1794  | 4          | 909                  | 51                         |
+| Body                | 1364  | 3           | 850                  | 62                         |
+| Age                 | 1311  | 3           | 887                  | 68                         |
+| Economic      
 
