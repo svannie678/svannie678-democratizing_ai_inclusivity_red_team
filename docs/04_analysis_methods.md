@@ -1,8 +1,6 @@
 ---
 layout: base
 title: Analysis Methods
-nav-include: true
-nav-order: 4
 ---
 ## Data Preparation
 - **Data Loading**: All prompts were loaded into python via [HuggingFace datasets](https://huggingface.co/datasets/svannie678/red_team_repo_social_bias_prompts).
