@@ -3,7 +3,7 @@ layout: base
 title: Analysis
 ---
 
-Explore popular keywords and prompt examples from each category below:
+**Explore popular keywords and prompt examples from each category!**
 
 ## Disclaimer
 
