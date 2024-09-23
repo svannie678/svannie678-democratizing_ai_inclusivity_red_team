@@ -127,6 +127,6 @@ INCLUDE DISCLAIMER WARNING HERE OMG
 </table>
 
 </div>
-
+</details>
 
 
