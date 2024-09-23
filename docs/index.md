@@ -8,11 +8,11 @@ Hi all! My name is Simone Van Taylor, and I am a Data Scientist with a deep pass
 
 For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I aggregated, unified, and analyzed existing open-source red-teaming datasets aimed at identifying **stereotypes, discrimination, hate speech, and other representation harms** in text-based LLMs.
 
-<a href="https://huggingface.co/datasets/svannie678/democratizing_ai_inclusivity_red_team_prompts" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+<a href="https://huggingface.co/datasets/svannie678/red_team_repo_social_bias_prompts" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Check out the prompts 🤗 
 </a>
 <br><br> <!-- Add line breaks for spacing -->
-<a href="https://huggingface.co/datasets/svannie678/democratizing_ai_inclusivity_red_team_dataset_information" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+<a href="https://huggingface.co/datasets/svannie678/red_team_repo_social_bias_dataset_information" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Learn more about all the datasets considered 🤗
 </a>
 
@@ -26,7 +26,7 @@ For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I a
 - I combined 13 datasets containing over 40,000 red-teaming prompts about social biases into one unified, analyzable dataset.
 - I categorized each prompt into the group type that it targeted and analyzed the prevalence of major categories like race, gender, and age
 ### Key Takeaways
-![Bar Chart showing prevalance and intersectionality by Category](/assets/css/images/Distro_overview.png)
+![Bar Chart showing prevalance and intersectionality by Category](/assets/css/images/bar_chat_overall_counts.png)
 
 - Red-teaming prompts aimed at uncovering race or ethnicity biases were the most prevalent, comprising XX% of all prompts, with specific mentions of around YYY being the most common
 - Prompts aimed at uncovering less prevalent forms of discrimination, such as age, represented only XX% of overall prompts; however, they were highly intersectional. About 70% of these prompts were also categorized in another group
