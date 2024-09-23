@@ -9,12 +9,17 @@ Hi all! My name is Simone Van Taylor, and I am a Data Scientist with a deep pass
 For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I aggregated, unified, and analyzed existing open-source red-teaming datasets aimed at identifying **stereotypes, discrimination, hate speech, and other representation harms** in text-based LLMs.
 
 <a href="https://huggingface.co/datasets/svannie678/red_team_repo_social_bias_prompts" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    Check out the prompts 🤗 
+    Check out the final dataset 🤗 
 </a>
 <br><br> <!-- Add line breaks for spacing -->
 <a href="https://huggingface.co/datasets/svannie678/red_team_repo_social_bias_dataset_information" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Learn more about all the datasets considered 🤗
 </a>
+
+<a href="https://svannie678.github.io/svannie678-red_team_repo_social_bias/02_analysis.html" style="display: inline-block; background-color: #d1bbea; color: #000; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Explore sample prompts 🚨
+</a>
+<br><br> <!-- Add line breaks for spacing -->
 
 ### Why?
 - To minimize duplication of future efforts for red-teamers and model owners.
