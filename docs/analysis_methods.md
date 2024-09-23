@@ -22,15 +22,14 @@ We calculated counts and proportions of prompts by category. Prompts that contai
 
 Additionally, counts for each keyword were compiled.
 
-| Category            | Prompt Count | Percentage (%) | Intersectional Count | Intersectional Percentage (%) |
+| Category            | Prompt Count | Percentage of Total (%) | Intersectional Count | Intersectional Percentage (%) |
 |---------------------|-------|----------------|----------------------|-------------------------------|
-| Race/Ethnicity      | 12998 | 32       | 2790                 | 21                     |
-| None of the Above   | 10875 | 27          | 0                    | 0                           |
-| Gender              | 9409  | 23          | 3326                 | 35                          |
-| Religion            | 4922  | 12          | 1331                 | 27                          |
-| Sexuality           | 3040  | 8            | 1004                 | 33                         |
+| Race/Ethnicity      | 12998 | 32          | 2790                 | 21                        |
+| None of the Above   | 10875 | 27          | 0                    | 0                         |
+| Gender              | 9409  | 23          | 3326                 | 35                         |
+| Religion            | 4922  | 12          | 1331                 | 27                         |
+| Sexuality           | 3040  | 8          | 1004                 | 33                          |
 | Disability          | 1794  | 4          | 909                  | 51                         |
 | Body                | 1364  | 3           | 850                  | 62                         |
-| Age                 | 1311  | 3           | 887                  | 68                         |
-| Economic      
-
+| Age                 | 1311  | 3           | 887                  | 68                          |
+| Economic            | 919   | 2          | 589                  | 64                         |
