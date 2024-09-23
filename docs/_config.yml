@@ -10,5 +10,7 @@ navigation:
     url: /dataset_collection_methods
   - title: Analysis Methods
     url: /analysis_methods
+  - title: Analysis
+    url: /analysis
 
     
