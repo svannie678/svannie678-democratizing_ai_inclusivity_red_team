@@ -26,12 +26,15 @@ For my 2024 [AI Safety Capstone Project](https://aisafetyfundamentals.com/), I a
 - I combined 13 datasets containing over 40,000 red-teaming prompts about social biases into one unified, analyzable dataset.
 - I categorized each prompt into the group type that it targeted and analyzed the prevalence of major categories like race, gender, and age
 
+
 ### Key Takeaways
 ![Bar Chart showing prevalance and intersectionality by Category](/assets/css/images/bar_chat_overall_counts.png)
 
 - Many red-teaming prompts (32% of the sample) focused on race or ethnicity, with African Americans being the most frequently mentioned group.
 - Less common groups tended to be more intersectional. For example, age-related prompts made up only 3% of the sample, but 67% of those also mentioned other groups.
-- The keyword-based categorization approach was somewhat ad-hoc, about 27% of prompts did not fit into any predefined category.
+- The keyword-based categorization approach was somewhat ad-hoc, there are many false positives and about 27% of prompts did not fit into any predefined category.
 
 - [SafetyPrompts.com](https://safetyprompts.com/) is a GREAT resource for exploring open-source datasets regarding AI safety.
 - Anthropic’s [seminal dataset of red-teaming prompts](https://huggingface.co/datasets/Anthropic/hh-rlhf), released in 2022, is referenced and reused in many downstream datasets.
+
+Dig into curated prompt examples in the [analysis section](https://svannie678.github.io/svannie678-red_team_repo_social_bias/02_analysis.html)!
