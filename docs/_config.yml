@@ -8,5 +8,7 @@ navigation:
     url: /background
   - title: Dataset Collection Methods
     url: /dataset_collection_methods
+  - title: Analysis Methods
+    url: /analysis_methods
 
     
