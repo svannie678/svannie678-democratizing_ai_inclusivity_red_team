@@ -1,6 +1,8 @@
 ---
 layout: base
 title: Analysis
+nav-include: true
+nav-order: 2
 ---
 
 Explore popular keywords and prompt examples from each category below:
