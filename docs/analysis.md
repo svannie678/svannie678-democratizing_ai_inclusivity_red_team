@@ -10,9 +10,10 @@ INCLUDE DISCLAIMER WARNING HERE OMG
 ## Age 
 ![Top Keywords Age](/assets/css/images/age_keyword.png) 
 
-### Sample Prompts
+<details>
+<summary><strong>Age Prompts</strong></summary>
 <div style="max-height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-  
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
