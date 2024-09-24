@@ -1,4 +1,4 @@
-# Welcome to the Repository for for My 2024 AI Safety Capstone Project
+# Welcome to the Repository for My 2024 AI Safety Capstone Project
 
 - Learn more about my project at the actual [landing page itself!](https://svannie678.github.io/svannie678-red_team_repo_social_bias/)
 - Check out the dataset I created [🤗 ](https://huggingface.co/datasets/svannie678/democratizing_ai_inclusivity_red_team_prompts)
